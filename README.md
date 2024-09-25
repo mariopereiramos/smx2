@@ -9,6 +9,14 @@ EL PROJETO KESTO es muy importante
 - hacer un canal
 - i disfrutar la fama de tu hijo o hija
 - ir a los world series of warzone
+- que tenga 30.000horas jugadas en warzone
+- i que tenga esta estadistica
+
+estadisticas necesitadas
+
+
+
+![Imatge d'exemple](
 
 També podeu afegir [enllaços](https://www.exemple.com) i mostrar imatges:
 
