@@ -12,9 +12,11 @@ EL PROJETO KESTO es muy importante
 
 També podeu afegir [enllaços](https://www.exemple.com) i mostrar imatges:
 
+![Imatge d'exemple](https://pbs.twimg.com/media/FTzWLwXWQAADjLg.png)
+
 ![Imatge d'exemple](https://pbs.twimg.com/media/FLcUsDLWQAIOBqF?format=jpg&name=900x900)
 
-Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
+esta son las arma de kesto
 
 ![Imatge d'exemple](https://i.ytimg.com/vi/Ok9lrAgTVL0/maxresdefault.jpg)
 
@@ -22,9 +24,15 @@ Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitat
 
 ![Imatge d'exemple](https://i.ytimg.com/vi/liIcSYgVo2Q/maxresdefault.jpg)
 
-```javascript
-// Aquest és un bloc de codi
-exemple de funció () {
-     // Exemple de codi
-}
-![Imatge d'exemple]()
+![Imatge d'exemple](https://phantom-marca.unidadeditorial.es/3e5916a901e25a4505822642a0479335/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/27/17115406996873.jpg)
+
+![Imatge d'exemple](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/call-of-duty-warzone-map-cod-battle-royale-1.jpg)
+
+tiene que jugar estos juegos 
+
+![Imatge d'exemple](https://upload.wikimedia.org/wikipedia/commons/e/e6/Call_of_Duty_Warzone_Logo.png)
+
+![Imatge d'exemple](https://phantom-marca.unidadeditorial.es/da2b4b281a178d4720d7ee478b3d483a/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/28/17091491042656.jpg)
+
+´´´
+https://github.com/mariopereiramos/smx2
