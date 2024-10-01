@@ -1,7 +1,7 @@
 hola esta es mi informacion difrutar
 
 
-[mis redes y juegos](https://github.com/mariopereiramos/smx2/tree/main/LINKS)
+[LINKS](https://github.com/mariopereiramos/smx2/tree/main/LINKS)
 
 [MI CANAL](https://github.com/mariopereiramos/smx2/blob/main/mi%20historia%20de%20mi%20canal.md)
 
