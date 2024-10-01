@@ -1,6 +1,6 @@
 hola esta es mi informacion difrutar
 
-![Imatge d'exemple](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCDAi9O9EzikaTW2bnD0mlqg&psig=AOvVaw2VeFKwtwm_eS32toDcEM8B&ust=1727852436605000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjD84fO7IgDFQAAAAAdAAAAABAE)
+![Imatge d'exemple](https://yt3.googleusercontent.com/4drpnH9UfCIwApjHOmV2q_fDcqVxRqRCBlClBzCnpJmkI0oDhqjqHxBZ1GfZaPT3ZoluwK7JTg=s900-c-k-c0x00ffffff-no-rj)
 
 
 [mis redes y juegos](https://github.com/mariopereiramos/smx2/blob/main/INDEX.md)
